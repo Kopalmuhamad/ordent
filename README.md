@@ -9,7 +9,7 @@ clone repository and run the function using node fileName.js
 In this repository i have 
 - combine-string.js, this function return letters of the three inputed 
 strings in groups. Taking the first letter of all of the inputs and grouping them next to each 
-other
+other.
 - generate-acronym.js, this function return an acronym for a given name.
 -remainder-dividing.js, this function accepts two integers and return the remainder of dividing the larger 
 value by the smaller value.
